@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.fa7b4bdc3b2f73e749e5c2c646d4ae13?rik=mSRvLKuiya%2blmg&pid=ImgRaw&r=0)]
+![MasterHead](https://th.bing.com/th/id/R.fa7b4bdc3b2f73e749e5c2c646d4ae13?rik=mSRvLKuiya%2blmg&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm Farhani Bassem</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
